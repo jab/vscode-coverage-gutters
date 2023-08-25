@@ -147,6 +147,7 @@
           "type": "array",
           "scope": "resource",
           "default": [
+            "_coverage_report.dat",
             "lcov.info",
             "cov.xml",
             "coverage.xml",
